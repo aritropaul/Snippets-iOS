@@ -12,6 +12,7 @@
 		30ECEEA92162D8F60020B9C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30ECEEA82162D8F60020B9C4 /* Assets.xcassets */; };
 		30ECEEAC2162D8F60020B9C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30ECEEAA2162D8F60020B9C4 /* LaunchScreen.storyboard */; };
 		30ECEEB42162DA750020B9C4 /* TextButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30ECEEB32162DA750020B9C4 /* TextButtonViewController.swift */; };
+		30ECEEB62162E7210020B9C4 /* Symptoms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30ECEEB52162E7210020B9C4 /* Symptoms.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		30ECEEAB2162D8F60020B9C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30ECEEAD2162D8F60020B9C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		30ECEEB32162DA750020B9C4 /* TextButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextButtonViewController.swift; sourceTree = "<group>"; };
+		30ECEEB52162E7210020B9C4 /* Symptoms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symptoms.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				30ECEEA52162D8F40020B9C4 /* Main.storyboard */,
 				30ECEEA82162D8F60020B9C4 /* Assets.xcassets */,
 				30ECEEB32162DA750020B9C4 /* TextButtonViewController.swift */,
+				30ECEEB52162E7210020B9C4 /* Symptoms.swift */,
 				30ECEEAA2162D8F60020B9C4 /* LaunchScreen.storyboard */,
 				30ECEEAD2162D8F60020B9C4 /* Info.plist */,
 			);
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30ECEEB62162E7210020B9C4 /* Symptoms.swift in Sources */,
 				30ECEEA22162D8F40020B9C4 /* AppDelegate.swift in Sources */,
 				30ECEEB42162DA750020B9C4 /* TextButtonViewController.swift in Sources */,
 			);
